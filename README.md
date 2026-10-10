@@ -63,7 +63,7 @@ This public repository documents the history, evolution, and significant milesto
 
 ## Information
 
-| Repository | Purpose |
+| Website | Purpose |
 |---|---|
 | [mascamp.app/faqs](https://mascamp.app/faqs/?utm_source=mascamp_guest) | MasCamp.APP is a the flagship platform developed by MasCamp Inc., designed to support band operations, costume sales, and service listings within a unified ecosystem. |
 | [mascamp-ca](https://mascamp.ca/) | MasCamp.ca is the official corporate website for MasCamp Inc., the company that is responsible for developing and operating technology solutions that support the global Carnival industry.|
