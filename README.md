@@ -4,7 +4,7 @@
 
 **Building the future of Carnival operations management.**
 
-[Official Website](https://mascamp.ca) · [MasCamp Platform](https://mascamp.app) · [Development Organization](https://github.com/mascamp-ca)
+[Official Website](https://mascamp.ca) · [MasCamp Platform](https://mascamp.app) 
 
 ---
 
